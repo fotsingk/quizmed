@@ -26,7 +26,7 @@
    ```
 
 2. **Téléchargez l’APK**
-   - Récupérez le fichier APK dans la section `releases` ou construisez-le à partir des sources.
+   - Récupérez le fichier APK [ici](https://github.com/fotsingk/quizmed/releases/download/V1.1.0/QuizMed.V1.1.1.apk)  ou dans la section `releases`.
 
 3. **Autorisez les sources inconnues**
    - Rendez-vous dans **Paramètres > Sécurité > Sources inconnues** et activez cette option (pour Android 8.0+, c’est par application).
